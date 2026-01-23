@@ -1,0 +1,9 @@
+# Sample Git-Based Assignment
+
+This template demonstrates how assignments can be submitted and assessed using Git workflows.
+
+## Workflow
+- Student forks the repository
+- Completes tasks
+- Submits a pull request
+- CI runs automated tests
