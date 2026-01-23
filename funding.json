@@ -1,0 +1,23 @@
+{
+  "project": "BOSC Open Developer Education Infrastructure (ODEI)",
+  "maintainers": [
+    "Bugema Open Source Community (BOSC)",
+    "Muwanga Erasto Kosea"
+  ],
+  "description": "Free and open-source infrastructure for project-based developer education using real-world FOSS workflows",
+  "use_of_funds": [
+    "Core maintainer and contributor stipends",
+    "Documentation, localization, and accessibility",
+    "CI/CD and testing infrastructure",
+    "Community mentorship and onboarding",
+    "Security and governance reviews"
+  ],
+  "annual_budget_usd": 25000,
+  "impact_regions": [
+    "Africa",
+    "Global South",
+    "Global"
+  ],
+  "license": "Apache-2.0"
+}
+
