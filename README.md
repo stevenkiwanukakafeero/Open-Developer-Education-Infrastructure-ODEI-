@@ -1,7 +1,7 @@
 # BOSC Open Developer Education Infrastructure (ODEI)
 
 ## Project Pitch
-ODEI is open-source education infrastructure that trains developers using real-world FOSS workflows. Maintained by the Bugema Open Source Community, it replaces proprietary tools with reusable, Git-native systems that help universities and communities—especially in the Global South—produce active open-source contributors and maintainers.
+ODEI is open-source education infrastructure that trains developers using real-world FOSS workflows. Maintained by the Bugema Open Source Community (BOSC)  , it replaces proprietary tools with reusable, Git-native systems that help universities and communities—especially in the Global South—produce active open-source contributors and maintainers.
 
 ## Problem
 Most developer education relies on proprietary platforms. Students graduate without real open-source experience, weakening the global FOSS ecosystem and increasing costs for public institutions.
